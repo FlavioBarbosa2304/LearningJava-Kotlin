@@ -1,4 +1,4 @@
-package org.example.example.Enumeracoes.entities;
+package org.example.Enumeracoes.entities;
 
 import org.example.Enumeracoes.entities.enums.OrderStatus;
 

@@ -1,4 +1,4 @@
-package org.example.example.Composicao.application;
+package org.example.Composicao.application;
 
 public class Program {
     public static void main(String[] args) {
